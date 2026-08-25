@@ -28,7 +28,7 @@ También: [OTRAS_TECNOLOGIAS_QUE_MANEJES]
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DanielRemolina-pro&show_icons=true&theme=dark)
+![Stats](https://github-stats-extended.vercel.app/api?username=DanielRemolina-pro&show_icons=true&theme=dark)
 
-
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/09b9ac1d-8805-429c-86eb-842a08de7bbe" />
 
