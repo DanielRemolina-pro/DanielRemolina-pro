@@ -30,5 +30,5 @@ También: [OTRAS_TECNOLOGIAS_QUE_MANEJES]
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=DanielRemolina-pro&show_icons=true&theme=dark)
 
-https://raw.githubusercontent.com/DanielRemolina-pro/DanielRemolina-pro/output/github-contribution-grid-snake-dark.svg
+![Snake animation](https://raw.githubusercontent.com/DanielRemolina-pro/DanielRemolina-pro/output/github-contribution-grid-snake-dark.svg)
 
