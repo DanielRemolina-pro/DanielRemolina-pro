@@ -12,7 +12,6 @@
 
 ![Stack](https://skillicons.dev/icons?i=python,django,react,postgres,java,git&theme=dark)
 
-También: [OTRAS_TECNOLOGIAS_QUE_MANEJES]
 
 ---
 
